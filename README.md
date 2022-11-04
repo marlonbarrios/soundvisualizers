@@ -46,7 +46,9 @@ Song Visualizer
 Music by Grigoriy Nuzhny
 Tap or click on sun to play
 
-![Screen Shot 2022-11-04 at 4 31 04 PM](https://user-images.githubusercontent.com/90220317/200069044-65fab555-cce1-4ae6-a743-1274bf82425c.png)
+
+![Screen Shot 2022-11-04 at 4 30 15 PM](https://user-images.githubusercontent.com/90220317/200069134-09875d0d-181c-4e0b-ad14-6e6f65699c1c.png)
+
 
 
 https://marlonbarrios.github.io/solarflare02/
